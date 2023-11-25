@@ -1,6 +1,8 @@
-# 🤖 ro-apk <span><br><p>*Brought to you by HauntedAlaskan*</p></span>
+# 🤖 ro-apk 
 
-Elevate your projects with **ro-apk**. Whether you're a game developer, data analyst, or automation enthusiast, this library offers a range of features to enhance your capabilities and bring innovation to your Roblox development experience. Explore the power of **ro-apk**:
+"**Ro-apk** transforms the Python-Roblox developer experience, excelling in bot construction, group automation, asset management, and more! It outpaces the competition with unmatched speed and dedication, guaranteed by our team of talented developers."
+
+ *- HauntedAlaskan and the **ro-apk** team*
 
 ---
 ### 🤖 1. **Bot Account Operations:**
