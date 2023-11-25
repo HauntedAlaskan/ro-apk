@@ -1,8 +1,6 @@
 # 🤖 ro-apk
 *Brought to you by HauntedAlaskan*
 
-A new Python - Roblox library used for the following purposes: Creating/Managing bot accounts,
-
 ## 1️⃣ Uses:
 
 **ro-apk** is a powerful Python library created by HauntedAlaskan, tailored for a range of functionalities within the Roblox ecosystem. Here are some key use cases:
